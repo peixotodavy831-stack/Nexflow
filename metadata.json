@@ -1,0 +1,6 @@
+{
+  "name": "NEXFLOW App",
+  "description": "NexFlow: Seu espaço para entrar no Flow — aplicativo de estudos baseado no estado de Flow com IA Nex, cronômetro progressivo e métricas de foco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
